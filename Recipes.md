@@ -1,5 +1,54 @@
 ## Low Starch Recipes
 
+### Possible Ingredients:
+    Amaranth or Chinese spinach
+    Artichoke
+    Artichoke hearts
+    Asparagus
+    Baby corn
+    Bamboo shoots
+    Beans (green, wax, Italian)
+    Bean sprouts
+    Beets
+    Brussels sprouts
+    Broccoli
+    Cabbage (green, bok choy, Chinese, Napa cabbage)
+    Carrots
+    Cauliflower
+    Celery
+    Chayote
+    Cucumber
+    Daikon
+    Eggplant
+    Fennel
+    Garlic
+    Greens (collard, kale, mustard, turnip, Swiss chard)
+    Hearts of palm
+    Horseradish
+    Jicama
+    Kohlrabi
+    Leeks
+    Mushrooms
+    Okra
+    Onions
+    Parsley
+    Pea pods
+    Peppers
+    Purslane
+    Radishes
+    Rutabaga
+    Salad greens (chicory, endive, escarole, lettuce, romaine, spinach, arugula, radicchio, watercress)
+    Scallions (Green onions)
+    Seaweed (Nori, Wakame, Kelp, Dulse, etc.)
+    Snow peas
+    Sprouts
+    Squash (cushaw, summer, crookneck, spaghetti, zucchini)
+    Sugar snap peas
+    Tomato
+    Turnips
+    Water chestnuts
+    Yard-long beans
+
 ### Roasted Veggies
 - Toss Brussels sprouts, cauliflower, carrots, and onions with olive oil, garlic, salt, and black pepper.
 - Roast at 200°C (400°F) for 25–30 minutes until caramelized.
